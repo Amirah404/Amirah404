@@ -19,11 +19,3 @@ I'm a Data Science student at the University of Ha'il, passionate about transfor
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
-
----
-
-### 📈 GitHub Stats:
-<div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Amirah404&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirah404&layout=compact&theme=radical"/>
-</div>
