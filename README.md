@@ -4,7 +4,7 @@ I'm a Data Science student at the University of Ha'il, passionate about transfor
 
 - 🔭 I’m currently working on **End-to-End Data Engineering Projects**
 - 🌱 I’m currently learning **Advanced Machine Learning & Power BI**
-- 👯 I’m looking to collaborate on **Data Analysis & Python Projects**
+- 👩🏻‍💻 I’m looking to collaborate on **Data Analysis & Python Projects**
 - 💬 Ask me about **Python, SQL, and Data Visualization**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amirahalreshidi-ds)
 
